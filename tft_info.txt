@@ -1,0 +1,1150 @@
+Curated by Nisgurnus
+Data Credit to lolchess.gg
+
+----------------------------------------------------------------
+Aatrox
+
+Cultist
+Vanguard
+
+HP :	800 / 1440 / 2592
+AD :	60 / 108 / 194.4
+DPS:	39 / 70 / 126
+AtR:	180
+AS :	0.65
+ARM:	40
+MR :	30
+
+Infernal Chains
+Active | Mana: 75/150
+Aatrox pulls the farthest enemies toward himself, then slams the ground in front of himself, dealing damage to all enemies hit.
+Damage : 250 / 450 / 1250
+Number of targets : 2 / 2 / 5
+
+----------------------------------------------------------------
+Ahri
+
+Spirit
+Mage
+
+HP :	650 / 1170 / 2106
+AD :	40 / 72 / 129.6
+DPS:	30 / 54 / 97
+AtR:	660
+AS :	0.75
+ARM:	20
+MR :	20
+
+Spirit Bomb
+Active | Mana: 0/90
+Ahri begins channeling energy into her spirit orb. After 1.5 seconds she lobs it toward a random enemy, dealing magic damage to all enemies in a large area.
+Damage : 500 / 800 / 4000
+
+----------------------------------------------------------------
+Akali
+
+Ninja
+Assassin
+
+HP :	650 / 1170 / 2106
+AD :	55 / 99 / 178.2
+DPS:	41 / 74 / 134
+AtR:	180
+AS :	0.75
+ARM:	20
+MR :	20
+
+Five-Point Strike
+Active | Mana: 0/20
+Akali throws kunai at her target, dealing magic damage.
+Damage : 125 / 200 / 400
+
+----------------------------------------------------------------
+Annie
+
+Fortune
+Mage
+
+HP :	700 / 1260 / 2268
+AD :	45 / 81 / 145.8
+DPS:	27 / 49 / 87
+AtR:	420
+AS :	0.6
+ARM:	40
+MR :	40
+
+Burst Shield
+Active | Mana: 0/65
+Annie blasts a cone of fire dealing magic damage to enemies in front of her, then creates a shield with health on herself for 8 seconds.
+Damage : 200 / 300 / 450
+Shield Amount : 400 / 600 / 900
+
+----------------------------------------------------------------
+Aphelios
+
+Moonlight
+Hunter
+
+HP :	500 / 900 / 1620
+AD :	50 / 90 / 162
+DPS:	38 / 68 / 122
+AtR:	890
+AS :	0.75
+ARM:	20
+MR :	20
+
+Sentry Turret
+Active | Mana: 50/100
+Aphelios summons a turret for a seconds. An extension of his will, the turret counts as Aphelios himself when it fires and deals damage, and dies when he dies.
+Duration : 5 / 7 / 9 / 15
+
+----------------------------------------------------------------
+Ashe
+
+Elderwood
+Hunter
+
+HP :	650 / 1170 / 2106
+AD :	75 / 135 / 243
+DPS:	56 / 101 / 182
+AtR:	890
+AS :	0.75
+ARM:	25
+MR :	20
+
+Hunter's Focus
+Active | Mana: 0/50
+Ashe gains Attack Speed for a seconds, and her attacks fire a flurry of arrows for physical damage.
+Attack Speed : 50% / 75% / 100%
+Damage Per Arrow : 40% / 40% / 40%
+
+----------------------------------------------------------------
+Azir
+
+Warlord
+Keeper
+Emperor
+
+HP :	950 / 1710 / 3078
+AD :	70 / 126 / 226.8
+DPS:	60 / 107 / 193
+AtR:	660
+AS :	0.85
+ARM:	30
+MR :	20
+
+Emperor's Divide
+Active | Mana: 50/125
+Azir calls forth a wall of charging soldiers from behind him, dealing magic damage to and slowing all enemies hit for 4 seconds. Enemies close to Azir are knocked back, while enemies further away are knocked up for a seconds.
+Wall Damage : 200 / 350 / 2000
+
+----------------------------------------------------------------
+Cassiopeia
+
+Dusk
+Mystic
+Dazzler
+
+HP :	700 / 1260 / 2268
+AD :	55 / 99 / 178.2
+DPS:	33 / 59 / 107
+AtR:	420
+AS :	0.6
+ARM:	30
+MR :	20
+
+Petrifying Gaze
+Active | Mana: 60/120
+Cassiopeia projects a cone of magic energy at her target, dealing magic damage to all enemies hit, stunning them for a while, and causing them to take 10% increased damage while stunned.
+Damage : 100 / 200 / 1000
+Stun Duration : 2.5 / 3 / 5
+
+----------------------------------------------------------------
+Diana
+
+Moonlight
+Assassin
+
+HP :	500 / 900 / 1620
+AD :	50 / 90 / 162
+DPS:	33 / 59 / 105
+AtR:	180
+AS :	0.65
+ARM:	25
+MR :	20
+
+Pale Cascade
+Active | Mana: 0/80
+Diana shields herself against damage over 4 seconds and summons orbs to orbit around her. These orbs explode for magic damage when they contact an enemy, refreshing her shield when the final one explodes.
+Orbs : 3 / 4 / 6 / 10
+Damage : 70 / 80 / 90 / 100
+Shield Amount : 200 / 300 / 450 / 650
+
+----------------------------------------------------------------
+Elise
+
+Cultist
+Keeper
+
+HP :	600 / 1080 / 1944
+AD :	45 / 81 / 145.8
+DPS:	29 / 53 / 95
+AtR:	420
+AS :	0.65
+ARM:	30
+MR :	20
+
+Spider Form
+Active | Mana: 0/75
+Elise transforms into a spider, gaining % of maximum health and causing her attacks to restore health.
+Bonus Health : 35 / 40 / 45%
+Health on Hit : 40 / 80 / 120
+
+----------------------------------------------------------------
+Evelynn
+
+Cultist
+Shade
+
+HP :	600 / 1080 / 1944
+AD :	70 / 126 / 226.8
+DPS:	49 / 88 / 159
+AtR:	180
+AS :	0.7
+ARM:	20
+MR :	20
+
+Last Caress
+Active | Mana: 0/60
+Evelynn deals magic damage to up to 3 nearby enemies, then teleports away. This damage is increased against targets below 50% Health.
+Damage : 350 / 500 / 900
+Damage Multiplier : 3 / 3 / 3
+
+----------------------------------------------------------------
+Ezreal
+
+Elderwood
+Dazzler
+
+HP :	750 / 1350 / 2430
+AD :	80 / 144 / 259.2
+DPS:	72 / 130 / 233
+AtR:	890
+AS :	0.9
+ARM:	20
+MR :	20
+
+Trueshot Barrage
+Active | Mana: 75/150
+Ezreal fires a barrage toward the enemy with the highest Attack Speed, healing allies it passes through and granting them 50% Attack Speed for 5 seconds. To enemies, it deals magic damage and slows their Attack Speed by 50% for 5 seconds.
+Damage : 200 / 400 / 9999
+Heal : 200 / 400 / 9999
+
+----------------------------------------------------------------
+Fiora
+
+Enlightened
+Duelist
+
+HP :	600 / 1080 / 1944
+AD :	45 / 81 / 145.8
+DPS:	34 / 61 / 109
+AtR:	180
+AS :	0.75
+ARM:	35
+MR :	30
+
+Riposte
+Active | Mana: 0/95
+Fiora enters a defensive stance for 1.5 seconds, which makes her immune to damage and enemy spell effects. Afterwards, she strikes, dealing magic damage to a nearby enemy and stunning them.
+Damage : 200 / 300 / 450
+Stun Duration : 1.5 / 2 / 3
+
+----------------------------------------------------------------
+Garen
+
+Warlord
+Vanguard
+
+HP :	600 / 1080 / 1944
+AD :	50 / 90 / 162
+DPS:	30 / 54 / 97
+AtR:	180
+AS :	0.6
+ARM:	50
+MR :	35
+
+Judgement
+Active | Mana: 0/100
+Garen spins his sword for 4 seconds, dealing magic damage to nearby enemies and reducing incoming magic damage by 80% over the duration.
+Damage : 450 / 675 / 1125
+
+----------------------------------------------------------------
+Hecarim
+
+Elderwood
+Vanguard
+
+HP :	750 / 1350 / 2430
+AD :	55 / 99 / 178.2
+DPS:	30 / 54 / 98
+AtR:	180
+AS :	0.55
+ARM:	45
+MR :	30
+
+Spirit of Life
+Active | Mana: 0/120
+Hecarim creates an aura around him for 3 seconds. Each enemy within takes magic damage, and heals Hecarim over the duration.
+Damage : 250 / 400 / 600
+Healing : 200 / 300 / 500
+
+----------------------------------------------------------------
+Irelia
+
+Enlightened
+Divine
+Adept
+
+HP :	800 / 1440 / 2592
+AD :	55 / 99 / 178.2
+DPS:	36 / 64 / 116
+AtR:	180
+AS :	0.65
+ARM:	40
+MR :	40
+
+Bladestorm
+Active | Mana: 50/100
+Irelia launches a storm of blades in front of her, dealing magic damage, applying on-hit effects, and disarming enemies for a seconds.
+Damage : 200 / 300 / 600
+Disarm Duration : 2.5 / 3 / 3.5
+
+----------------------------------------------------------------
+Janna
+
+Enlightened
+Mystic
+
+HP :	550 / 990 / 1782
+AD :	40 / 72 / 129.6
+DPS:	24 / 43 / 78
+AtR:	660
+AS :	0.6
+ARM:	20
+MR :	20
+
+Eye of the Storm
+Active | Mana: 30/50
+Janna shields her lowest-Health allies for 4 seconds. Shielded allies also gain Attack Damage for the duration.
+Number of Allies : 2 / 3 / 4
+Shield Amount : 250 / 300 / 400
+Bonus Attack Damage : 20 / 30 / 60
+
+----------------------------------------------------------------
+Jarvan IV
+
+Warlord
+Keeper
+
+HP :	600 / 1080 / 1944
+AD :	60 / 108 / 194.4
+DPS:	36 / 65 / 117
+AtR:	180
+AS :	0.6
+ARM:	45
+MR :	30
+
+Dragon Strike
+Active | Mana: 60/120
+Jarvan IV throws his standard near the farthest enemy then pulls himself towards them with his lance, dealing magic damage to enemies he passes through and knocking them up and stunning them for 2 seconds as well.
+Damage : 175 / 250 / 500
+
+----------------------------------------------------------------
+Jax
+
+Divine
+Duelist
+
+HP :	750 / 1350 / 2430
+AD :	60 / 108 / 194.4
+DPS:	39 / 70 / 126
+AtR:	180
+AS :	0.65
+ARM:	30
+MR :	20
+
+Counter Strike
+Active | Mana: 50/125
+Jax dodges all incoming attacks for 2 seconds, then strikes all nearby enemies, dealing magic damage and stunning them for 1.5 seconds.
+Damage : 150 / 250 / 450
+
+----------------------------------------------------------------
+Jhin
+
+Cultist
+Sharpshooter
+
+HP :	600 / 1080 / 1944
+AD :	90 / 162 / 291.6
+DPS:	72 / 130 / 233
+AtR:	890
+AS :	0.8
+ARM:	20
+MR :	20
+
+Whisper
+Passive | Mana: No cost
+Jhin attacks per second is constant, regardless of bonus Attack Speed. He converts each 1% of bonus Attack Speed he has into 0.8 Attack Damage. Every fourth shot, Jhin deals % of his Attack Damage.
+Percent of Attack Damage : 444% / 500% / 4444%
+Attacks Per Second : 0.85 / 0.9 / 1.2
+
+----------------------------------------------------------------
+Jinx
+
+Fortune
+Sharpshooter
+
+HP :	600 / 1080 / 1944
+AD :	65 / 117 / 210.6
+DPS:	49 / 88 / 158
+AtR:	660
+AS :	0.75
+ARM:	20
+MR :	20
+
+Fishbones
+Active | Mana: 0/50
+Jinx's next attack fires a rocket, stunning her target for 1.5 seconds and dealing magic damage to her target and all adjacent enemies.
+Damage : 175 / 300 / 600
+
+----------------------------------------------------------------
+Kalista
+
+Cultist
+Duelist
+
+HP :	550 / 990 / 1782
+AD :	65 / 117 / 210.6
+DPS:	65 / 117 / 211
+AtR:	660
+AS :	1
+ARM:	20
+MR :	20
+
+Rend
+Passive | Mana: No cost
+Kalista's spears remain in her target, each one capable of dealing % of the target's max Health in magic damage when she removes them. Kalista will remove the spears when doing so would kill the target.
+Maximum Health Damage : 4 / 6 / 8%
+
+----------------------------------------------------------------
+Katarina
+
+Warlord
+Fortune
+Assassin
+
+HP :	500 / 900 / 1620
+AD :	65 / 117 / 210.6
+DPS:	42 / 76 / 137
+AtR:	180
+AS :	0.65
+ARM:	20
+MR :	20
+
+Death Lotus
+Active | Mana: 0/90
+Katarina channels for 2.5 seconds, throwing knives nearby enemies, dealing magic damage over the duration and reducing healing by 50% to her targets for 5 seconds.
+Total Damage : 600 / 900 / 1800
+Number of Targets : 4 / 6 / 8
+
+----------------------------------------------------------------
+Kayn
+
+Tormented
+Shade
+
+HP :	900 / 1620 / 2916
+AD :	80 / 144 / 259.2
+DPS:	80 / 144 / 259
+AtR:	180
+AS :	1
+ARM:	40
+MR :	40
+
+Reaping Slash
+Active | Mana: 0/60
+Kayn dashes toward his target then slashes all adjacent enemies, dealing damage and increasing the cost of their next spell by 33%. If the slash hits exactly one target, Kayn immediately casts again. As Rhaast: Reaping Slash heals Kayn for 50% of the damage it deals. As Shadow Assassin: Reaping Slash deals an extra 60% damage for the first 10 seconds of combat.
+Damage : 300 / 450 / 3333
+
+----------------------------------------------------------------
+Kennen
+
+Ninja
+Keeper
+
+HP :	650 / 1170 / 2106
+AD :	60 / 108 / 194.4
+DPS:	39 / 70 / 126
+AtR:	420
+AS :	0.65
+ARM:	20
+MR :	20
+
+Slicing Maelstrom
+Active | Mana: 50/125
+Kennen summons a storm around himself for 3 seconds, calling down lightning bolts on all enemies in the area every 0.5 second and dealing magic damage over the duration. Each enemy struck by 3 lightning bolts is stunned for 1.5 seconds.
+Total Damage : 250 / 375 / 700
+
+----------------------------------------------------------------
+Kindred
+
+Spirit
+Hunter
+
+HP :	650 / 1170 / 2106
+AD :	70 / 126 / 226.8
+DPS:	53 / 95 / 170
+AtR:	660
+AS :	0.75
+ARM:	20
+MR :	20
+
+Dance of Dread
+Active | Mana: 0/35
+Wolf mauls Kindred's target, dealing magic damage and reducing their healing by 80% for 5 seconds. Meanwhile, Lamb leaps away from Kindred's target.
+Damage : 400 / 600 / 1000
+
+----------------------------------------------------------------
+Lee Sin
+
+Divine
+Duelist
+
+HP :	1000 / 1800 / 3240
+AD :	50 / 90 / 162
+DPS:	43 / 77 / 138
+AtR:	180
+AS :	0.85
+ARM:	50
+MR :	50
+
+God Fist
+Active | Mana: 0/50
+Lee Sin punches his target, dealing magic damage, knocking them back to the edge of the battlefield, and stunning them. Any enemies the target collides with during the knockback are also dealt half the damage and stunned for 1.5 seconds. If the target is cannot be pushed back any further, they are knocked out of the battlefield instead, removing them from combat. If the target is still alive, Lee Sin will dash to them.
+Damage : 200 / 400 / 600
+Stun Duration : 3 / 4 / 10
+
+----------------------------------------------------------------
+Lillia
+
+Dusk
+Mage
+
+HP :	950 / 1710 / 3078
+AD :	40 / 72 / 129.6
+DPS:	30 / 54 / 97
+AtR:	420
+AS :	0.75
+ARM:	50
+MR :	80
+
+Lilting Lullaby
+Active | Mana: 100/150
+Lillia casts a magical lullaby, causing waking enemies with the highest current health to fall asleep for 3.5 seconds. Enemies will awaken if they take damage while sleeping, causing an additional magic damage.
+Number of Targets : 2 / 3 / 10
+Break Damage : 600 / 1200 / 1800
+Damage : 300 / 500 / 2000
+
+----------------------------------------------------------------
+Lissandra
+
+Moonlight
+Dazzler
+
+HP :	550 / 990 / 1782
+AD :	40 / 72 / 129.6
+DPS:	24 / 43 / 78
+AtR:	660
+AS :	0.6
+ARM:	20
+MR :	20
+
+1000 Daggers
+Active | Mana: 0/50
+Lissandra hurls a dagger toward her target, which deals magic damage to the first target it hist. After hitting its initial target or at its final destination, the dagger explodes dealing magic damage to secondary targets.
+Damage : 300 / 400 / 600 / 1000
+Secondary Damage : 150 / 200 / 300 / 500
+
+----------------------------------------------------------------
+Lulu
+
+Elderwood
+Mage
+
+HP :	500 / 900 / 1620
+AD :	50 / 90 / 162
+DPS:	30 / 54 / 97
+AtR:	660
+AS :	0.6
+ARM:	20
+MR :	20
+
+Wild Growth
+Active | Mana: 60/120
+Lulu makes a low health ally giant, granting them bonus health and knocking up adjacent enemies near them for 1.5 seconds.
+Bonus Health : 400 / 600 / 950
+
+----------------------------------------------------------------
+Lux
+
+Divine
+Dazzler
+
+HP :	600 / 1080 / 1944
+AD :	40 / 72 / 129.6
+DPS:	28 / 50 / 91
+AtR:	890
+AS :	0.7
+ARM:	20
+MR :	20
+
+Light Binding
+Active | Mana: 40/100
+Lux fires a sphere of light towards the farthest enemy. Enemies in its path take magic damage and are stunned.
+Damage : 250 / 350 / 700
+Stun Duration : 1.5 / 2 / 3.5
+
+----------------------------------------------------------------
+Maokai
+
+Elderwood
+Brawler
+
+HP :	700 / 1260 / 2268
+AD :	55 / 99 / 178.2
+DPS:	28 / 50 / 89
+AtR:	180
+AS :	0.5
+ARM:	35
+MR :	20
+
+Bramble Smash
+Active | Mana: 0/75
+Maokai smashes the ground sending forward a shockwave that impacts enemies, dealing magic damage and slowing their Attack Speed by 50% for 3 seconds.
+Damage : 225 / 350 / 550
+
+----------------------------------------------------------------
+Morgana
+
+Enlightened
+Dazzler
+
+HP :	750 / 1350 / 2430
+AD :	50 / 90 / 162
+DPS:	35 / 63 / 113
+AtR:	660
+AS :	0.7
+ARM:	30
+MR :	60
+
+Hallowed Ground
+Active | Mana: 60/120
+Morgana hallows the ground beneath her target, dealing magic damage to enemies within over 5 seconds and shredding 40% of their Magic Resistance while they remain inside. Morgana restores % of the damage dealt.
+Damage : 300 / 500 / 3000
+Healing : 20% / 25% / 30%
+
+----------------------------------------------------------------
+Nami
+
+Enlightened
+Mage
+
+HP :	500 / 900 / 1620
+AD :	40 / 72 / 129.6
+DPS:	26 / 47 / 84
+AtR:	660
+AS :	0.65
+ARM:	20
+MR :	20
+
+Aqua Prison
+Active | Mana: 75/100
+Nami traps the closest enemy in her bubble, dealing magic damage and stunning them for a seconds.
+Damage : 200 / 300 / 425
+Stun Duration : 2 / 2.5 / 3
+
+----------------------------------------------------------------
+Nidalee
+
+Warlord
+Sharpshooter
+
+HP :	550 / 990 / 1782
+AD :	45 / 81 / 145.8
+DPS:	32 / 57 / 102
+AtR:	890
+AS :	0.7
+ARM:	30
+MR :	20
+
+Javelin Toss
+Active | Mana: 0/80
+Nidalee throws her Javelin at the farthest enemy, dealing magic damage plus 10% per hex traveled.
+Base Damage : 225 / 350 / 600
+
+----------------------------------------------------------------
+Nunu
+
+Elderwood
+Brawler
+
+HP :	750 / 1350 / 2430
+AD :	65 / 117 / 210.6
+DPS:	36 / 64 / 116
+AtR:	180
+AS :	0.55
+ARM:	50
+MR :	30
+
+Consume
+Active | Mana: 0/85
+Willump bites his target, dealing magic damage. If Willump's target has less Health than him before the bite, it deals an additional 50% damage and becomes true damage.
+Damage : 450 / 650 / 1300
+
+----------------------------------------------------------------
+Pyke
+
+Cultist
+Assassin
+
+HP :	700 / 1260 / 2268
+AD :	50 / 90 / 162
+DPS:	30 / 54 / 97
+AtR:	180
+AS :	0.6
+ARM:	50
+MR :	30
+
+Phantom Undertow
+Active | Mana: 75/125
+Pyke leaves an afterimage at his location, then dashes behind the farthest enemy. After 1 second, his afterimage returns to Pyke, dealing magic damage to all enemies it passes through and stunning them.
+Damage : 150 / 250 / 450
+Stun Duration : 2 / 2.5 / 4
+
+----------------------------------------------------------------
+Riven
+
+Dusk
+Keeper
+
+HP :	800 / 1440 / 2592
+AD :	70 / 126 / 226.8
+DPS:	53 / 95 / 170
+AtR:	180
+AS :	0.75
+ARM:	35
+MR :	30
+
+Energy Slash
+Active | Mana: 0/20
+Riven dashes and shields herself, then slashes forward dealing magic damage to nearby enemies. Every third cast, Riven leaps into the air and launches forward a large wave of energy that deals magic damage.
+Shield Amount : 225 / 350 / 1500
+Damage : 180 / 250 / 1000
+Wave Damage : 300 / 450 / 2000
+
+----------------------------------------------------------------
+Sejuani
+
+Fortune
+Vanguard
+
+HP :	850 / 1530 / 2754
+AD :	45 / 81 / 145.8
+DPS:	25 / 45 / 80
+AtR:	180
+AS :	0.55
+ARM:	60
+MR :	40
+
+Firecracker
+Active | Mana: 50/150
+Sejuani throws a giant firecracker at the closest enemy that explodes after a 2 second delay. Enemies within are dealt magic damage and stunned for a seconds.
+Damage : 100 / 200 / 800
+Stun Duration : 2.5 / 3 / 6
+
+----------------------------------------------------------------
+Sett
+
+The Boss
+Brawler
+
+HP :	1100 / 1980 / 3564
+AD :	60 / 108 / 194.4
+DPS:	45 / 81 / 146
+AtR:	180
+AS :	0.75
+ARM:	60
+MR :	30
+
+Showstopper
+Active | Mana: 50/125
+Sett grabs his target and slams them forward, dealing % of his target's maximum health in magic damage to the target, and % of that target's maximum health to all other enemies in a large area around them.
+Primary Damage % : 30 / 40 / 400%
+Secondary Damage % : 15 / 25 / 200%
+
+----------------------------------------------------------------
+Shen
+
+Ninja
+Mystic
+Adept
+
+HP :	950 / 1710 / 3078
+AD :	60 / 108 / 194.4
+DPS:	39 / 70 / 126
+AtR:	180
+AS :	0.65
+ARM:	50
+MR :	40
+
+Shadow Dash
+Active | Mana: 60/120
+Shen dashes past his target, shielding himself against damage and taunting all adjacent enemies for 3 seconds.
+Shield Amount : 500 / 800 / 4000
+
+----------------------------------------------------------------
+Sylas
+
+Moonlight
+Brawler
+
+HP :	1100 / 1980 / 3564
+AD :	70 / 126 / 226.8
+DPS:	42 / 76 / 136
+AtR:	180
+AS :	0.6
+ARM:	40
+MR :	80
+
+Chain Lash
+Active | Mana: 30/60
+Sylas lashes his chains out in a 3 hex line, dealing magic damage to enemies hit and increasing the cost of their next spell by 33%.
+Damage : 250 / 400 / 600 / 1100
+
+----------------------------------------------------------------
+Tahm Kench
+
+Fortune
+Brawler
+
+HP :	1100 / 1980 / 3564
+AD :	70 / 126 / 226.8
+DPS:	35 / 63 / 113
+AtR:	180
+AS :	0.5
+ARM:	40
+MR :	30
+
+Thick Skin
+Passive | Mana: No cost
+Tahm Kench takes reduced damage from all sources.
+Damage Reduction : 15 / 25 / 75
+
+----------------------------------------------------------------
+Talon
+
+Enlightened
+Assassin
+
+HP :	750 / 1350 / 2430
+AD :	90 / 162 / 291.6
+DPS:	72 / 130 / 233
+AtR:	180
+AS :	0.8
+ARM:	30
+MR :	20
+
+Truestrike
+Active | Mana: 0/50
+Talon stabs his target, striking them for % of his attack damage and plus bonus physical damage. If this kills them, Talon becomes unstoppable, untargetable, and invulnerable while he leaps to the enemy who's done the most damage this round and refunds his mana.
+AD Bonus Percentage : 2.5 / 3 / 5
+
+----------------------------------------------------------------
+Teemo
+
+Spirit
+Sharpshooter
+
+HP :	500 / 900 / 1620
+AD :	55 / 99 / 178.2
+DPS:	39 / 69 / 125
+AtR:	890
+AS :	0.7
+ARM:	20
+MR :	20
+
+Sporecloud Dart
+Active | Mana: 0/60
+Teemo fires a dart at the enemy with the highest Attack Speed that explodes into a cloud of spores on contact, poisoning nearby enemies. Poisoned enemies take magic damage over few seconds and are blinded for the duration.
+Damage : 200 / 300 / 700
+Duration : 2.5 / 3 / 5
+
+----------------------------------------------------------------
+Thresh
+
+Dusk
+Vanguard
+
+HP :	700 / 1260 / 2268
+AD :	60 / 108 / 194.4
+DPS:	33 / 59 / 107
+AtR:	420
+AS :	0.55
+ARM:	80
+MR :	20
+
+Spectral Lantern
+Active | Mana: 50/100
+Thresh throws his lantern to the lowest-health ally, shielding them and nearby allies against damage for 4 seconds.
+Shield Amount : 250 / 450 / 750
+
+----------------------------------------------------------------
+TwistedFate
+
+Cultist
+Mage
+
+HP :	550 / 990 / 1782
+AD :	45 / 81 / 145.8
+DPS:	29 / 53 / 95
+AtR:	660
+AS :	0.65
+ARM:	20
+MR :	20
+
+Wild Cards
+Active | Mana: 0/70
+Twisted Fate throws three cards in a cone that deal magic damage to each enemy they pass through.
+Damage : 200 / 350 / 525
+
+----------------------------------------------------------------
+Vayne
+
+Dusk
+Sharpshooter
+
+HP :	500 / 900 / 1620
+AD :	40 / 72 / 129.6
+DPS:	32 / 58 / 104
+AtR:	890
+AS :	0.8
+ARM:	20
+MR :	20
+
+Silver Bolts
+Passive | Mana: No cost
+Whenever Vayne Basic Attacks the same target 3 times, she deals bonus true damage.
+Bonus True Damage : 40 / 75 / 125
+
+----------------------------------------------------------------
+Veigar
+
+Elderwood
+Mage
+
+HP :	600 / 1080 / 1944
+AD :	40 / 72 / 129.6
+DPS:	24 / 43 / 78
+AtR:	660
+AS :	0.6
+ARM:	20
+MR :	20
+
+Dark Blossom
+Active | Mana: 0/45
+Veigar blasts the enemy with the lowest health, dealing magic damage. If this kills his target, Veigar permanently gains 1 spell power.
+Damage : 450 / 600 / 1200
+
+----------------------------------------------------------------
+Vi
+
+Warlord
+Brawler
+
+HP :	700 / 1260 / 2268
+AD :	65 / 117 / 210.6
+DPS:	39 / 70 / 126
+AtR:	180
+AS :	0.6
+ARM:	40
+MR :	30
+
+Denting Blow
+Active | Mana: 0/60
+Vi's attack blasts through her target, dealing magic damage to all enemies in a cone and reducing their armor for 6 seconds.
+Damage : 250 / 400 / 600
+Armor Reduction : 50 / 75 / 100%
+
+----------------------------------------------------------------
+Warwick
+
+Divine
+Hunter
+Brawler
+
+HP :	950 / 1710 / 3078
+AD :	70 / 126 / 226.8
+DPS:	63 / 113 / 204
+AtR:	180
+AS :	0.9
+ARM:	40
+MR :	40
+
+Primal Hunger
+Active | Mana: 0/70
+Warwick gains Attack Speed, Lifesteal, and moves faster for the rest of combat. While in this state, if Warwick scores a takedown he howls, stunning all adjacent enemies with fear for a seconds.
+Attack Speed : 175% / 200% / 500%
+Life Steal : 50% / 50% / 200%
+Fear Duration : 1.5 / 2 / 4
+
+----------------------------------------------------------------
+Wukong
+
+Divine
+Vanguard
+
+HP :	600 / 1080 / 1944
+AD :	55 / 99 / 178.2
+DPS:	36 / 64 / 116
+AtR:	180
+AS :	0.65
+ARM:	40
+MR :	30
+
+Crushing Blow
+Active | Mana: 0/50
+Wukong slams his target with his staff, dealing % of his Attack Damage as physical damage and stunning them for a seconds.
+Percent of AD : 200% / 230% / 260%
+Stun Duration : 1.5 / 1.75 / 2
+
+----------------------------------------------------------------
+Xin Zhao
+
+Warlord
+Duelist
+
+HP :	700 / 1260 / 2268
+AD :	60 / 108 / 194.4
+DPS:	45 / 81 / 146
+AtR:	180
+AS :	0.75
+ARM:	40
+MR :	30
+
+Crescent Guard
+Active | Mana: 0/50
+Xin Zhao sweeps around him, dealing % of his Attack Damage and Challenging enemies hit for 4 seconds. While an enemy is Challenged, Xin Zhao deals % increased Basic Attack damage to them, and takes 85% reduced damage from all other sources.
+Initial Damage : 200 / 250 / 350%
+Basic Attack Damage Increase : 200 / 200 / 200%
+
+----------------------------------------------------------------
+Yasuo
+
+Exile
+Duelist
+
+HP :	550 / 990 / 1782
+AD :	50 / 90 / 162
+DPS:	35 / 63 / 113
+AtR:	180
+AS :	0.7
+ARM:	30
+MR :	20
+
+Striking Steel
+Active | Mana: 0/45
+Yasuo strikes forward two hexes, attacking for % of his Attack Damage.
+Percent of Attack Damage : 175% / 200% / 250%
+
+----------------------------------------------------------------
+Yone
+
+Exile
+Adept
+
+HP :	950 / 1710 / 3078
+AD :	80 / 144 / 259.2
+DPS:	76 / 137 / 246
+AtR:	180
+AS :	0.95
+ARM:	40
+MR :	40
+
+Seal Fate
+Active | Mana: 0/100
+Yone strikes along a path in front of him, dealing magic damage split between all enemies hit and knocking them up for 1.5 seconds. Enemies hit are marked for death, reducing their Armor and Magic Resist by 60% Yone's spell is then replaced with Unforgotten until there are no remaining enemies marked for death. Unforgotten (20 mana): Yone dashes to the lowest health enemy that is marked for death, dealing plus their missing health as magic damage
+Damage : 800 / 1300 / 9999
+Unforgotten Base Damage : 250 / 400 / 1000
+
+----------------------------------------------------------------
+Yuumi
+
+Spirit
+Mystic
+
+HP :	600 / 1080 / 1944
+AD :	40 / 72 / 129.6
+DPS:	24 / 43 / 78
+AtR:	660
+AS :	0.6
+ARM:	20
+MR :	20
+
+Zoomies
+Active | Mana: 0/40
+Yuumi dashes to the lowest Health ally, healing them for % of their missing Health and granting them Attack Speed for 5 seconds. She then repeats this on the furthest ally.
+Healing : 30% / 50% / 70%
+Attack Speed : 30% / 40% / 50%
+
+----------------------------------------------------------------
+Zed
+
+Ninja
+Shade
+
+HP :	650 / 1170 / 2106
+AD :	55 / 99 / 178.2
+DPS:	44 / 79 / 143
+AtR:	180
+AS :	0.8
+ARM:	20
+MR :	20
+
+Contempt for the Weak
+Passive | Mana: No cost
+Every third attack, Zed deals bonus magic damage and steals % of the target's current Attack Damage.
+Attack Damage Stolen : 20% / 33% / 50%
+Damage : 50 / 75 / 125
+
+----------------------------------------------------------------
+Zilean
+
+Cultist
+Mystic
+
+HP :	750 / 1350 / 2430
+AD :	45 / 81 / 145.8
+DPS:	34 / 61 / 109
+AtR:	660
+AS :	0.75
+ARM:	20
+MR :	20
+
+Rewind Fate
+Active | Mana: 100/150
+Zilean places a protective Time Rune on the allies with the lowest health. When they would die, they instead resurrect after a while, returning to combat with some Health and shedding all negative effects. After resurrecting, they have bonus Attack Speed for the rest of combat.
+Number of Targets : 2 / 2 / 10
+Revive Delay : 3.5 / 3 / 1
+Health Restored : 500 / 1000 / 3000
+
